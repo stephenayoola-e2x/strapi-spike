@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_components_text_blocks",
+  "info": {
+    "name": "text block",
+    "icon": "pen-nib"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "style": {
+      "type": "enumeration",
+      "enum": [
+        "wide",
+        "narrow"
+      ]
+    }
+  }
+}
